@@ -1,0 +1,1 @@
+export default ["Home", "Explore", "Aboutus", "Profile"];
